@@ -1,0 +1,6 @@
+title:
+  fr_fr: "Supprimer filtres\ninutilisés"
+  en_us: Delete unused filters
+tooltip:
+  fr_fr: Permet de supprimer tous les filtres non utilisés
+  en_us: Check if filters are used and remove unused ones
